@@ -1,0 +1,283 @@
+URL: https://app.starask.io/personality-xny
+TITLE: 手相面相五大性格测试综合报告
+
+VISIBLE TEXT
+手相面相五大性格测试综合报告
+语言
+中文
+English
+日本語
+한국어
+手相面相五大性格测试综合报告
+限时免费
+
+上传双手和正面照，完成 50 题，约 8–12 分钟。
+
+还可继续查看专项报告
+事业发展、成果与认可
+感情与婚姻
+财富走势
+旅行与迁居
+01
+
+填写资料
+基本资料
+
+02
+
+拍摄影像
+双手与正面照
+
+03
+
+完成测试
+50 题
+
+01 · 资料与照片
+资料与照片
+01
+基本信息
+性别*
+男
+女
+不愿透露
+惯用手*
+左手
+右手
+02
+出生信息
+生日（公历）*
+选择日期
+出生时间*
+选择出生时间
+出生地点*
+03
+补充资料
+血型*
+请选择
+A
+B
+AB
+O
+不确定
+最高教育程度
+请选择
+高中
+本科
+硕士
+博士
+身高（可选）
+体重（可选）
+04
+上传照片
+0/3 张已完成
+
+拍摄双手掌纹
+拍摄按钮会打开系统相机，以高分辨率保留掌纹细节。
+
+手心正对镜头
+五指自然展开
+包含完整手腕
+背景干净、光线均匀
+01
+
+左手
+待采集
+
+手心正对镜头 · 五指自然展开 · 包含完整手腕
+
+拍摄左手
+从相册选择
+02
+
+右手
+待采集
+
+手心正对镜头 · 五指自然展开 · 包含完整手腕
+
+拍摄右手
+从相册选择
+正面照片
+
+正对镜头、无遮挡，避免滤镜和强阴影。
+
+上传正面照
+上传正面照
+
+自然光、正对镜头、无遮挡，避免滤镜和强阴影。
+
+拍摄照片
+从相册选择
+05
+开始前的一项确认
+你是否认同问卷测评可以反映个性？*
+1
+非常不同意
+2
+不同意
+3
+中立
+4
+同意
+5
+非常同意
+继续做五大性格特质测试
+StarAsk
+条款与条件
+隐私政策
+
+DOM SNAPSHOT
+- banner:
+  - strong: 手相面相五大性格测试综合报告
+  - generic: 语言
+  - combobox "语言":
+    - option "中文" [selected]
+    - option "English"
+    - option "日本語"
+    - option "한국어"
+- main:
+  - heading "手相面相五大性格测试综合报告" [level=1]
+  - generic: 限时免费
+  - paragraph: 上传双手和正面照，完成 50 题，约 8–12 分钟。
+  - strong: 还可继续查看专项报告
+  - list:
+    - text: 事业发展、成果与认可
+    - text: 感情与婚姻
+    - text: 财富走势
+    - text: 旅行与迁居
+  - generic: "01"
+  - paragraph:
+    - strong: 填写资料
+    - generic: 基本资料
+  - generic: "02"
+  - paragraph:
+    - strong: 拍摄影像
+    - generic: 双手与正面照
+  - generic: "03"
+  - paragraph:
+    - strong: 完成测试
+    - generic: 50 题
+  - text: 01 · 资料与照片
+  - heading "资料与照片" [level=1]
+  - generic: "01"
+  - heading "基本信息" [level=2]
+  - text: 性别
+  - emphasis: "*"
+  - button "性别* 女 不愿透露": 男
+  - button "女"
+  - button "不愿透露"
+  - text: 惯用手
+  - emphasis: "*"
+  - button "惯用手* 右手": 左手
+  - button "右手":
+    - text: 右手
+  - generic: "02"
+  - heading "出生信息" [level=2]
+  - text: 生日（公历）
+  - emphasis: "*"
+  - button "生日（公历）*":
+    - generic: 选择日期
+  - text: 出生时间
+  - emphasis: "*"
+  - button "出生时间*":
+    - generic: 选择出生时间
+  - text: 出生地点
+  - emphasis: "*"
+  - textbox "出生地点*":
+    - /placeholder: 输入出生城市或地区
+  - generic: "03"
+  - heading "补充资料" [level=2]
+  - text: 血型
+  - emphasis: "*"
+  - combobox "血型*":
+    - option "请选择" [selected]
+    - option "A"
+    - option "B"
+    - option "AB"
+    - option "O"
+    - option "不确定"
+  - generic: 最高教育程度
+  - combobox "最高教育程度":
+    - option "请选择" [selected]
+    - option "高中"
+    - option "本科"
+    - option "硕士"
+    - option "博士"
+  - generic: 身高（可选）
+  - textbox "身高（可选）":
+    - /placeholder: cm
+  - generic: 体重（可选）
+  - textbox "体重（可选）":
+    - /placeholder: kg
+  - generic: "04"
+  - heading "上传照片" [level=2]
+  - strong: 0/3 张已完成
+  - paragraph:
+    - strong: 拍摄双手掌纹
+    - generic: 拍摄按钮会打开系统相机，以高分辨率保留掌纹细节。
+  - list:
+    - text: 手心正对镜头
+    - text: 五指自然展开
+    - text: 包含完整手腕
+    - text: 背景干净、光线均匀
+  - article:
+    - generic: "01"
+    - paragraph:
+      - strong: 左手
+      - generic: 待采集
+    - paragraph: 手心正对镜头 · 五指自然展开 · 包含完整手腕
+    - button "Choose File"
+    - button "Choose File"
+    - button "拍摄左手":
+      - text: 拍摄左手
+    - button "从相册选择":
+      - text: 从相册选择
+  - article:
+    - generic: "02"
+    - paragraph:
+      - strong: 右手
+      - generic: 待采集
+    - paragraph: 手心正对镜头 · 五指自然展开 · 包含完整手腕
+    - button "Choose File"
+    - button "Choose File"
+    - button "拍摄右手":
+      - text: 拍摄右手
+    - button "从相册选择":
+      - text: 从相册选择
+  - heading "正面照片" [level=2]
+  - paragraph: 正对镜头、无遮挡，避免滤镜和强阴影。
+  - button "Choose File"
+  - button "从相册选择"
+  - generic: 上传正面照
+  - strong: 上传正面照
+  - paragraph: 自然光、正对镜头、无遮挡，避免滤镜和强阴影。
+  - button "拍摄照片":
+    - text: 拍摄照片
+  - text: 从相册选择
+  - generic: "05"
+  - heading "开始前的一项确认" [level=2]
+  - text: 你是否认同问卷测评可以反映个性？
+  - emphasis: "*"
+  - button "你是否认同问卷测评可以反映个性？* 2 不同意 3 中立 4 同意 5 非常同意":
+    - generic: "1"
+    - generic: 非常不同意
+  - button "2 不同意":
+    - generic: "2"
+    - generic: 不同意
+  - button "3 中立":
+    - generic: "3"
+    - generic: 中立
+  - button "4 同意":
+    - generic: "4"
+    - generic: 同意
+  - button "5 非常同意":
+    - generic: "5"
+    - generic: 非常同意
+  - button "继续做五大性格特质测试" [disabled]:
+    - text: 继续做五大性格特质测试
+- contentinfo:
+  - generic: StarAsk·
+  - link "条款与条件·":
+    - /url: /terms
+  - link "隐私政策":
+    - /url: /privacy

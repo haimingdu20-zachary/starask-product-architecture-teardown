@@ -1,0 +1,186 @@
+URL: https://app.starask.io/?friend=system-demo-friend
+TITLE: 星问 - 了解自己，理解他人
+
+VISIBLE TEXT
+报告
+问事
+我
+好友
+介绍
+订阅
+设置
+语言
+中文
+English
+日本語
+한국어
+访客模式
+账号 #[REDACTED_GUEST_ID]
+绑定 Google、Apple 或邮箱后，可在其他设备登录。
+保护资料
+登录其他账号
+全部好友
+StarAsk
+离线
+·
+革命家
+一起问
+设置
+分类得分
+人际运
+今日高光
+
+今日人际颇顺，紫微、破军入庙旺，星力强，与人相处轻松自然。
+
+86
+财运
+
+今日财运平稳，正常开支即可。
+
+72
+活力运
+
+今日状态平稳，注意劳逸结合即可。
+
+69
+感情运
+
+今日感情需要更多耐心，廉贞、贪狼落陷，星力弱，温和表达更易被理解。
+
+54
+事业运
+需要留意
+
+今日事业宜稳不宜急，空宫无主星，重要决定可以再多斟酌一下。
+
+30
+前后15日运势
+过去7天
+未来7天
+最高 8/20 · 82
+最低 8/19 · 61
+综合
+事业运
+财运
+感情运
+活力运
+人际运
+分享记录
+0
+对方分享给我
+0
+我分享给对方
+0
+
+对方分享给我
+
+对方还没有分享给我的会话
+
+0
+StarAsk
+·
+服务条款
+·
+隐私政策
+
+DOM SNAPSHOT
+- banner:
+  - navigation "主要导航":
+    - button "报告":
+      - generic: 报告
+    - button "问事":
+      - generic: 问事
+    - button "我":
+      - generic: 我
+    - button "好友":
+      - generic: 好友
+    - link "介绍":
+      - /url: https://www.starask.io/
+      - generic: 介绍
+  - button "订阅":
+    - generic: 订阅
+  - button "设置":
+    - generic: 设置
+  - generic: 语言
+  - combobox "语言":
+    - option "中文" [selected]
+    - option "English"
+    - option "日本語"
+    - option "한국어"
+  - status:
+    - strong: 访客模式
+    - generic: "账号 #[REDACTED_GUEST_ID]"
+    - generic: 绑定 Google、Apple 或邮箱后，可在其他设备登录。
+    - button "保护资料"
+    - button "登录其他账号"
+- main:
+  - button "全部好友":
+    - text: 全部好友
+  - button "StarAsk":
+    - img "StarAsk"
+  - heading "StarAsk" [level=1]
+  - generic: 离线
+  - generic: ·
+  - button "革命家":
+    - text: 革命家
+  - button "一起问":
+    - text: 一起问
+  - button "设置":
+    - text: 设置
+  - heading "分类得分" [level=2]
+  - article:
+    - heading "人际运" [level=3]
+    - generic: 今日高光
+    - paragraph: 今日人际颇顺，紫微、破军入庙旺，星力强，与人相处轻松自然。
+    - generic: "86"
+  - article:
+    - heading "财运" [level=3]
+    - paragraph: 今日财运平稳，正常开支即可。
+    - generic: "72"
+  - article:
+    - heading "活力运" [level=3]
+    - paragraph: 今日状态平稳，注意劳逸结合即可。
+    - generic: "69"
+  - article:
+    - heading "感情运" [level=3]
+    - paragraph: 今日感情需要更多耐心，廉贞、贪狼落陷，星力弱，温和表达更易被理解。
+    - generic: "54"
+  - article:
+    - heading "事业运" [level=3]
+    - generic: 需要留意
+    - paragraph: 今日事业宜稳不宜急，空宫无主星，重要决定可以再多斟酌一下。
+    - generic: "30"
+  - heading "前后15日运势" [level=3]
+  - generic: 过去7天
+  - generic: 未来7天
+  - generic: 最高 8/20 · 82
+  - generic: 最低 8/19 · 61
+  - tablist:
+    - tab "综合" [selected]
+    - tab "事业运"
+    - tab "财运"
+    - tab "感情运"
+    - tab "活力运"
+    - tab "人际运"
+  - main:
+    - heading "分享记录" [level=2]
+    - generic: "0"
+    - tablist:
+      - tab "对方分享给我 0" [selected]:
+        - text: 对方分享给我
+        - generic: "0"
+      - tab "我分享给对方 0":
+        - text: 我分享给对方
+        - generic: "0"
+    - paragraph: 对方分享给我
+    - paragraph: 对方还没有分享给我的会话
+    - generic: "0"
+  - link "StarAsk":
+    - /url: https://www.starask.io/
+    - generic: StarAsk
+  - generic: ·
+  - link "服务条款":
+    - /url: /terms
+  - generic: ·
+  - link "隐私政策":
+    - /url: /privacy

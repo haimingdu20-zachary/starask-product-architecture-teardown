@@ -1,0 +1,115 @@
+URL: https://app.starask.io/
+TITLE: 星问 - 了解自己，理解他人
+
+VISIBLE TEXT
+报告
+问事
+我
+好友
+介绍
+订阅
+设置
+语言
+中文
+English
+日本語
+한국어
+访客模式
+账号 #[REDACTED_GUEST_ID]
+绑定 Google、Apple 或邮箱后，可在其他设备登录。
+保护资料
+登录其他账号
+好友
+1
+好友请求
+添加好友
+好友
+1
+StarAsk
+starask@starask.io
+离线
+61
+对方向我开放 6 项
+我向对方开放 0 项
+一起问
+详情
+设置
+邀请好友
+
+好友注册后，双方各得 100 代金卷。
+
+复制链接
+StarAsk
+·
+服务条款
+·
+隐私政策
+
+DOM SNAPSHOT
+- banner:
+  - navigation "主要导航":
+    - button "报告":
+      - generic: 报告
+    - button "问事":
+      - generic: 问事
+    - button "我":
+      - generic: 我
+    - button "好友" [active]:
+      - generic: 好友
+    - link "介绍":
+      - /url: https://www.starask.io/
+      - generic: 介绍
+  - button "订阅":
+    - generic: 订阅
+  - button "设置":
+    - generic: 设置
+  - generic: 语言
+  - combobox "语言":
+    - option "中文" [selected]
+    - option "English"
+    - option "日本語"
+    - option "한국어"
+  - status:
+    - strong: 访客模式
+    - generic: "账号 #[REDACTED_GUEST_ID]"
+    - generic: 绑定 Google、Apple 或邮箱后，可在其他设备登录。
+    - button "保护资料"
+    - button "登录其他账号"
+- main:
+  - heading "好友" [level=1]
+  - generic: "1"
+  - button "好友请求":
+    - text: 好友请求
+  - button "添加好友":
+    - text: 添加好友
+  - searchbox "搜索备注、名称或邮箱"
+  - heading "好友" [level=2]
+  - generic: "1"
+  - article:
+    - button "打开 StarAsk 的好友详情":
+      - generic: StarAsk
+      - generic: starask@starask.io
+      - generic: 离线
+      - img "StarAsk"
+      - generic "今日运势 61 分": "61"
+    - generic: 对方向我开放 6 项
+    - generic: 我向对方开放 0 项
+    - button "一起问":
+      - text: 一起问
+    - button "详情":
+      - text: 详情
+    - button "设置":
+      - text: 设置
+  - heading "邀请好友" [level=2]
+  - paragraph: 好友注册后，双方各得 100 代金卷。
+  - button "复制链接":
+    - text: 复制链接
+  - link "StarAsk":
+    - /url: https://www.starask.io/
+    - generic: StarAsk
+  - generic: ·
+  - link "服务条款":
+    - /url: /terms
+  - generic: ·
+  - link "隐私政策":
+    - /url: /privacy

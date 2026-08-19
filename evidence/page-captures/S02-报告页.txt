@@ -1,0 +1,154 @@
+URL: https://app.starask.io/reports
+TITLE: 星问 - 了解自己，理解他人
+
+VISIBLE TEXT
+报告
+问事
+我
+好友
+介绍
+订阅
+设置
+语言
+中文
+English
+日本語
+한국어
+访客模式
+账号 #[REDACTED_GUEST_ID]
+绑定 Google、Apple 或邮箱后，可在其他设备登录。
+保护资料
+登录其他账号
+报告
+
+基于手相、面相与五大性格特质测试的深度解读，为你提供更清晰的自我认知与人生方向。
+
+整套 6 份报告
+限时免费
+原价
+$49.9
+现在
+$0
+已开放
+01
+/
+06
+手相面相五大性格测试综合报告
+第 1 份
+双手掌纹
+正面影像
+五大性格特质测试
+开始测评
+专题报告
+事业发展与成果
+事业转折与关键年龄
+成果被看见的过程
+未来发展与认可节奏
+完成综合报告后解锁
+感情婚姻
+感情底色
+重要感情痕迹
+发展过程与传统年龄
+完成综合报告后解锁
+财富走势
+资源底色与推进方式
+改善与压力阶段
+缓冲结构
+完成综合报告后解锁
+旅行迁居
+移动与迁居倾向
+每条路线的发展过程
+对事业路线的影响
+完成综合报告后解锁
+StarAsk
+·
+服务条款
+·
+隐私政策
+
+DOM SNAPSHOT
+- banner:
+  - navigation "主要导航":
+    - button "报告":
+      - generic: 报告
+    - button "问事":
+      - generic: 问事
+    - button "我":
+      - generic: 我
+    - button "好友":
+      - generic: 好友
+    - link "介绍":
+      - /url: https://www.starask.io/
+      - generic: 介绍
+  - button "订阅":
+    - generic: 订阅
+  - button "设置":
+    - generic: 设置
+  - generic: 语言
+  - combobox "语言":
+    - option "中文" [selected]
+    - option "English"
+    - option "日本語"
+    - option "한국어"
+  - status:
+    - strong: 访客模式
+    - generic: "账号 #[REDACTED_GUEST_ID]"
+    - generic: 绑定 Google、Apple 或邮箱后，可在其他设备登录。
+    - button "保护资料"
+    - button "登录其他账号"
+- main:
+  - heading "报告" [level=1]
+  - paragraph: 基于手相、面相与五大性格特质测试的深度解读，为你提供更清晰的自我认知与人生方向。
+  - complementary "整套 6 份报告限时免费":
+    - strong: 整套 6 份报告
+    - generic: 限时免费
+    - generic: 原价
+    - deletion: $49.9
+    - generic: 现在
+    - strong: $0
+  - region "手相面相五大性格测试综合报告":
+    - generic: 已开放
+    - strong: "01"
+    - generic: /
+    - generic: "06"
+    - heading "手相面相五大性格测试综合报告" [level=2]
+    - generic: 第 1 份
+    - generic: 双手掌纹
+    - generic: 正面影像
+    - generic: 五大性格特质测试
+    - button "开始测评":
+      - text: 开始测评
+  - heading "专题报告" [level=2]
+  - button "事业发展与成果 事业转折与关键年龄 成果被看见的过程 未来发展与认可节奏 完成综合报告后解锁" [disabled]:
+    - strong: 事业发展与成果
+    - generic: 事业转折与关键年龄
+    - generic: 成果被看见的过程
+    - generic: 未来发展与认可节奏
+    - text: 完成综合报告后解锁
+  - button "感情婚姻 感情底色 重要感情痕迹 发展过程与传统年龄 完成综合报告后解锁" [disabled]:
+    - strong: 感情婚姻
+    - generic: 感情底色
+    - generic: 重要感情痕迹
+    - generic: 发展过程与传统年龄
+    - text: 完成综合报告后解锁
+  - button "财富走势 资源底色与推进方式 改善与压力阶段 缓冲结构 完成综合报告后解锁" [disabled]:
+    - strong: 财富走势
+    - generic: 资源底色与推进方式
+    - generic: 改善与压力阶段
+    - generic: 缓冲结构
+    - text: 完成综合报告后解锁
+  - button "旅行迁居 移动与迁居倾向 每条路线的发展过程 对事业路线的影响 完成综合报告后解锁" [disabled]:
+    - strong: 旅行迁居
+    - generic: 移动与迁居倾向
+    - generic: 每条路线的发展过程
+    - generic: 对事业路线的影响
+    - text: 完成综合报告后解锁
+  - link "StarAsk":
+    - /url: https://www.starask.io/
+    - generic: StarAsk
+  - generic: ·
+  - link "服务条款":
+    - /url: /terms
+  - generic: ·
+  - link "隐私政策":
+    - /url: /privacy

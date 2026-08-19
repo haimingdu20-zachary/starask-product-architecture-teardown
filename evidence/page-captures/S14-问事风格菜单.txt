@@ -1,0 +1,117 @@
+URL: https://app.starask.io/?workspace=chats
+TITLE: 星问 - 了解自己，理解他人
+
+VISIBLE TEXT
+报告
+问事
+我
+好友
+介绍
+订阅
+设置
+语言
+中文
+English
+日本語
+한국어
+访客模式
+账号 #[REDACTED_GUEST_ID]
+绑定 Google、Apple 或邮箱后，可在其他设备登录。
+保护资料
+登录其他账号
+想问什么？
+新对话
+本次分析
+我
+加入好友
+易懂
+
+✦ 切换会话风格
+
+易懂
+精简
+幽默
+
+用通俗易懂、平实温和的语言进行分析，不使用术语。
+
+更新资料
+正在追踪
+查看全部
+暂无追踪
+未来问题会自动出现在这里。
+对话记录
+全部
+追踪
+分享给我的
+合盘
+没有符合条件的对话
+
+DOM SNAPSHOT
+- banner:
+  - navigation "主要导航":
+    - button "报告":
+      - generic: 报告
+    - button "问事":
+      - generic: 问事
+    - button "我":
+      - generic: 我
+    - button "好友":
+      - generic: 好友
+    - link "介绍":
+      - /url: https://www.starask.io/
+      - generic: 介绍
+  - button "订阅":
+    - generic: 订阅
+  - button "设置":
+    - generic: 设置
+  - generic: 语言
+  - combobox "语言":
+    - option "中文" [selected]
+    - option "English"
+    - option "日本語"
+    - option "한국어"
+  - status:
+    - strong: 访客模式
+    - generic: "账号 #[REDACTED_GUEST_ID]"
+    - generic: 绑定 Google、Apple 或邮箱后，可在其他设备登录。
+    - button "保护资料"
+    - button "登录其他账号"
+- main:
+  - heading "想问什么？" [level=1]
+  - button "新对话":
+    - text: 新对话
+  - generic: 本次分析
+  - text: 我
+  - button "加入好友":
+    - generic: 加入好友
+  - textbox "输入问题"
+  - button "语音输入":
+  - button "发送 (Ctrl+Enter)" [disabled]:
+  - button "易懂" [active]:
+    - text: 易懂
+  - paragraph: ✦ 切换会话风格
+  - button "易懂"
+  - button "精简"
+  - button "幽默"
+  - paragraph: 用通俗易懂、平实温和的语言进行分析，不使用术语。
+  - button "更新资料":
+    - generic: 更新资料
+  - heading "正在追踪" [level=2]
+  - button "查看全部":
+    - text: 查看全部
+  - button "暂无追踪 未来问题会自动出现在这里。":
+    - strong: 暂无追踪
+    - generic: 未来问题会自动出现在这里。
+  - heading "对话记录" [level=2]
+  - textbox:
+    - /placeholder: 搜索对话
+  - tablist "对话记录":
+    - tab "全部" [selected]:
+      - text: 全部
+    - tab "追踪":
+      - text: 追踪
+    - tab "分享给我的":
+      - text: 分享给我的
+    - tab "合盘":
+      - text: 合盘
+  - generic: 没有符合条件的对话

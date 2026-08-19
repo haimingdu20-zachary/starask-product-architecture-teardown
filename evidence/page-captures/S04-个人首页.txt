@@ -1,0 +1,120 @@
+URL: https://app.starask.io/
+TITLE: 星问 - 了解自己，理解他人
+
+VISIBLE TEXT
+报告
+问事
+我
+好友
+介绍
+订阅
+设置
+语言
+中文
+English
+日本語
+한국어
+访客模式
+账号 #[REDACTED_GUEST_ID]
+绑定 Google、Apple 或邮箱后，可在其他设备登录。
+保护资料
+登录其他账号
+
+先完善出生信息
+
+需要出生日期和出生时间。
+
+前往设置
+追踪
+暂无追踪
+
+未来问题会自动出现在这里。
+
+具体事件
+运势建议
+今日
+本周
+本月
+
+暂时无法加载建议，请稍后重试。
+
+重试
+运势排名
+完整排行
+1
+StarAsk
+61
+StarAsk
+·
+服务条款
+·
+隐私政策
+
+DOM SNAPSHOT
+- banner:
+  - navigation "主要导航":
+    - button "报告":
+      - generic: 报告
+    - button "问事":
+      - generic: 问事
+    - button "我" [active]:
+      - generic: 我
+    - button "好友":
+      - generic: 好友
+    - link "介绍":
+      - /url: https://www.starask.io/
+      - generic: 介绍
+  - button "订阅":
+    - generic: 订阅
+  - button "设置":
+    - generic: 设置
+  - generic: 语言
+  - combobox "语言":
+    - option "中文" [selected]
+    - option "English"
+    - option "日本語"
+    - option "한국어"
+  - status:
+    - strong: 访客模式
+    - generic: "账号 #[REDACTED_GUEST_ID]"
+    - generic: 绑定 Google、Apple 或邮箱后，可在其他设备登录。
+    - button "保护资料"
+    - button "登录其他账号"
+- main:
+  - main:
+    - paragraph: 先完善出生信息
+    - paragraph: 需要出生日期和出生时间。
+    - button "前往设置"
+    - heading "追踪" [level=2]
+    - heading "暂无追踪" [level=3]
+    - paragraph: 未来问题会自动出现在这里。
+    - button "具体事件":
+      - text: 具体事件
+  - complementary:
+    - heading "运势建议" [level=2]
+    - tablist "选择运势周期":
+      - tab "今日" [selected]
+      - tab "本周"
+      - tab "本月"
+    - paragraph: 暂时无法加载建议，请稍后重试。
+    - button "重试":
+      - text: 重试
+    - heading "运势排名" [level=2]
+    - button "完整排行":
+      - text: 完整排行
+    - button "1. StarAsk, 61, 适合放慢":
+      - generic: "1"
+      - generic: StarAsk
+      - generic: "61"
+      - generic "我的性格卡":
+        - button "我的性格卡":
+          - img "StarAsk"
+  - link "StarAsk":
+    - /url: https://www.starask.io/
+    - generic: StarAsk
+  - generic: ·
+  - link "服务条款":
+    - /url: /terms
+  - generic: ·
+  - link "隐私政策":
+    - /url: /privacy

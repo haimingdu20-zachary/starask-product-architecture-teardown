@@ -1,0 +1,170 @@
+URL: https://app.starask.io/?workspace=topup
+TITLE: 星问 - 了解自己，理解他人
+
+VISIBLE TEXT
+报告
+问事
+我
+好友
+介绍
+订阅
+设置
+语言
+中文
+English
+日本語
+한국어
+访客模式
+账号 #[REDACTED_GUEST_ID]
+绑定 Google、Apple 或邮箱后，可在其他设备登录。
+保护资料
+登录其他账号
+订阅
+
+额度每月刷新。
+
+当前订阅
+
+当前未订阅
+
+查看交易记录
+选择方案
+月付
+年付
+
+LIGHT
+
+A$
+7.99
+/月
+
+每月支付 A$7.99
+
+每月 2,500 代金卷额度
+预计可提问约 100 次
+额度每月刷新
+订阅
+
+PLUS
+
+推荐
+A$
+14.99
+/月
+
+每月支付 A$14.99
+
+每月 6,000 代金卷额度
+预计可提问约 240 次
+额度每月刷新
+订阅
+
+PRO
+
+A$
+28.99
+/月
+
+每月支付 A$28.99
+
+每月 12,000 代金卷额度
+预计可提问约 480 次
+额度每月刷新
+订阅
+
+有效提问次数按每次约 25 代金卷估算，实际消耗会随问题复杂度变化。
+
+StarAsk
+·
+服务条款
+·
+隐私政策
+
+DOM SNAPSHOT
+- banner:
+  - navigation "主要导航":
+    - button "报告":
+      - generic: 报告
+    - button "问事":
+      - generic: 问事
+    - button "我":
+      - generic: 我
+    - button "好友":
+      - generic: 好友
+    - link "介绍":
+      - /url: https://www.starask.io/
+      - generic: 介绍
+  - button "订阅":
+    - generic: 订阅
+  - button "设置":
+    - generic: 设置
+  - generic: 语言
+  - combobox "语言":
+    - option "中文" [selected]
+    - option "English"
+    - option "日本語"
+    - option "한국어"
+  - status:
+    - strong: 访客模式
+    - generic: "账号 #[REDACTED_GUEST_ID]"
+    - generic: 绑定 Google、Apple 或邮箱后，可在其他设备登录。
+    - button "保护资料"
+    - button "登录其他账号"
+- main:
+  - heading "订阅" [level=2]
+  - paragraph: 额度每月刷新。
+  - region "当前订阅":
+    - paragraph: 当前订阅
+    - heading "当前未订阅" [level=3]
+    - paragraph
+    - button "查看交易记录":
+      - text: 查看交易记录
+  - heading "选择方案" [level=3]
+  - generic "计费周期":
+    - button "月付" [active] [pressed]
+    - button "年付"
+  - article:
+    - paragraph: Light
+    - generic: A$
+    - strong: "7.99"
+    - generic: /月
+    - paragraph: 每月支付 A$7.99
+    - list:
+      - text: 每月 2,500 代金卷额度
+      - text: 预计可提问约 100 次
+      - text: 额度每月刷新
+    - button "订阅"
+  - article:
+    - paragraph: Plus
+    - generic: 推荐
+    - generic: A$
+    - strong: "14.99"
+    - generic: /月
+    - paragraph: 每月支付 A$14.99
+    - list:
+      - text: 每月 6,000 代金卷额度
+      - text: 预计可提问约 240 次
+      - text: 额度每月刷新
+    - button "订阅"
+  - article:
+    - paragraph: Pro
+    - generic: A$
+    - strong: "28.99"
+    - generic: /月
+    - paragraph: 每月支付 A$28.99
+    - list:
+      - text: 每月 12,000 代金卷额度
+      - text: 预计可提问约 480 次
+      - text: 额度每月刷新
+    - button "订阅"
+  - paragraph:
+    - text: 有效提问次数按每次约 25 代金卷估算，实际消耗会随问题复杂度变化。
+  - link "StarAsk":
+    - /url: https://www.starask.io/
+    - generic: StarAsk
+  - generic: ·
+  - link "服务条款":
+    - /url: /terms
+  - generic: ·
+  - link "隐私政策":
+    - /url: /privacy

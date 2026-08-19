@@ -1,0 +1,201 @@
+URL: https://app.starask.io/?workspace=settings
+TITLE: 星问 - 了解自己，理解他人
+
+VISIBLE TEXT
+报告
+问事
+我
+好友
+介绍
+订阅
+设置
+语言
+中文
+English
+日本語
+한국어
+访客模式
+账号 #[REDACTED_GUEST_ID]
+绑定 Google、Apple 或邮箱后，可在其他设备登录。
+保护资料
+登录其他账号
+设置
+
+[REDACTED_GUEST_ID]
+
+#[REDACTED_GUEST_ID]
+
+生辰信息
+出生日期
+选择出生日期
+出生时间
+选择出生时间
+
+如果不确定具体时辰，可以留空
+
+出生地
+性别
+请选择
+男
+女
+保存生辰
+帮我确定出生时辰
+账户信息
+用户名
+保存
+星问账号
+[REDACTED_GUEST_ID]
+邮箱
+尚未绑定邮箱
+注册时间
+2026/8/18
+保护资料
+
+绑定后可在其他设备登录。
+
+绑定邮箱与密码
+通知
+
+每日运势提醒
+
+每天早上 7:00 收到今日运势
+
+推送未开启
+
+通知权限被拒绝
+
+请在浏览器设置中重新开启本站的通知权限，然后刷新页面再试。
+
+iOS 用户需先将本站添加到主屏幕（安装 PWA）才能接收推送。安卓用户请确认系统设置中已开启浏览器通知权限。
+
+所在地
+
+选填，用于每日运势。
+
+保存
+反馈
+
+反馈
+
+语言
+CN
+中文
+EN
+English
+KO
+한국어
+JA
+日本語
+保护资料
+StarAsk
+·
+服务条款
+·
+隐私政策
+
+DOM SNAPSHOT
+- banner:
+  - navigation "主要导航":
+    - button "报告":
+      - generic: 报告
+    - button "问事":
+      - generic: 问事
+    - button "我":
+      - generic: 我
+    - button "好友":
+      - generic: 好友
+    - link "介绍":
+      - /url: https://www.starask.io/
+      - generic: 介绍
+  - button "订阅":
+    - generic: 订阅
+  - button "设置" [active]:
+    - generic: 设置
+  - generic: 语言
+  - combobox "语言":
+    - option "中文" [selected]
+    - option "English"
+    - option "日本語"
+    - option "한국어"
+  - status:
+    - strong: 访客模式
+    - generic: "账号 #[REDACTED_GUEST_ID]"
+    - generic: 绑定 Google、Apple 或邮箱后，可在其他设备登录。
+    - button "保护资料"
+    - button "登录其他账号"
+- main:
+  - main:
+    - heading "设置" [level=2]
+    - paragraph: "[REDACTED_GUEST_ID]"
+    - paragraph: "#[REDACTED_GUEST_ID]"
+    - heading "生辰信息" [level=2]
+    - generic: 出生日期
+    - button "出生日期":
+      - generic: 选择出生日期
+    - generic: 出生时间
+    - button "出生时间":
+      - generic: 选择出生时间
+    - paragraph: 如果不确定具体时辰，可以留空
+    - generic: 出生地
+    - textbox "出生地":
+      - /placeholder: 输入地点
+    - generic: 性别
+    - combobox "性别":
+      - option "请选择" [selected]
+      - option "男"
+      - option "女"
+    - button "保存生辰"
+    - button "帮我确定出生时辰" [disabled]
+    - heading "账户信息" [level=2]
+    - generic: 用户名
+    - textbox "设置昵称"
+    - button "保存" [disabled]
+    - generic: 星问账号
+    - generic: "[REDACTED_GUEST_ID]"
+    - generic: 邮箱
+    - generic: 尚未绑定邮箱
+    - generic: 注册时间
+    - generic: 2026/8/18
+    - heading "保护资料" [level=2]
+    - paragraph: 绑定后可在其他设备登录。
+    - button "绑定邮箱与密码":
+      - strong: 绑定邮箱与密码
+    - heading "通知" [level=2]
+    - paragraph: 每日运势提醒
+    - paragraph: 每天早上 7:00 收到今日运势
+    - switch "每日运势提醒"
+    - generic: 推送未开启
+    - paragraph: 通知权限被拒绝
+    - paragraph: 请在浏览器设置中重新开启本站的通知权限，然后刷新页面再试。
+    - paragraph: iOS 用户需先将本站添加到主屏幕（安装 PWA）才能接收推送。安卓用户请确认系统设置中已开启浏览器通知权限。
+    - heading "所在地" [level=2]
+    - textbox "输入地点"
+    - paragraph: 选填，用于每日运势。
+    - button "保存" [disabled]
+    - heading "反馈" [level=2]
+    - button "反馈":
+      - paragraph: 反馈
+    - heading "语言" [level=2]
+    - button "CN 中文":
+      - generic: CN
+      - generic: 中文
+    - button "EN English":
+      - generic: EN
+      - generic: English
+    - button "KO 한국어":
+      - generic: KO
+      - generic: 한국어
+    - button "JA 日本語":
+      - generic: JA
+      - generic: 日本語
+    - button "保护资料":
+      - text: 保护资料
+    - link "StarAsk":
+      - /url: https://www.starask.io/
+      - generic: StarAsk
+    - generic: ·
+    - link "服务条款":
+      - /url: /terms
+    - generic: ·
+    - link "隐私政策":
+      - /url: /privacy

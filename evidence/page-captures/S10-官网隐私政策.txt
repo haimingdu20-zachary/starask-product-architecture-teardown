@@ -1,0 +1,655 @@
+URL: https://www.starask.io/zh/privacy/
+TITLE: Privacy Policy | 星问
+
+VISIBLE TEXT
+问问题
+继续追踪
+理解彼此
+综合报告
+中
+EN
+日
+한
+打开 StarAsk
+隐私政策 / Privacy Policy
+
+生效日期 / Effective Date: 2026-03-12 · Last Updated: 2026-03-12
+
+一、概述
+
+本隐私政策（以下简称"本政策"）说明 Module Agents AI Pty Ltd（ABN 67 693 756 259，以下简称"本公司"、"我们"）如何在与 Ziwei Pro 平台相关的情况下收集、使用、存储、披露及以其他方式处理个人信息。本平台包括 ziwei.pro, ziwei.guru 网站、相关应用程式、产品、工具、功能、通讯及服务（统称"本平台"）。
+
+本政策旨在帮助您了解：我们收集哪些信息、为何收集、如何使用、会与谁共享、保存多久，以及您享有哪些权利和选择。
+
+我们是一家澳大利亚公司，并依据适用法律（包括《1988年澳大利亚隐私法》及澳大利亚隐私原则（APPs））处理个人信息。根据您所在地区，您可能还享有额外的本地隐私权利。
+
+您访问或使用本平台，即表示您已阅读并理解本政策。
+
+二、本政策的适用范围
+
+本政策适用于我们在以下情形中收集的个人信息：
+
+您访问或使用本平台；
+您创建或使用账户；
+您购买积分、订阅、报告或其他付费服务；
+您使用 AI 对话、命盘分析或其他个性化功能；
+您联系我们、请求客服支持或与我们沟通；
+您参与调查、推广活动、候补名单、测试或活动；或
+您以其他方式就本平台与我们互动。
+
+本政策不适用于我们无法控制的第三方服务、网站、平台、支付服务商、应用商店、AI 服务商或其他服务，即使其与本平台存在链接或整合关系。该等第三方可能适用其自身的隐私政策及条款。
+
+三、我们收集的个人信息
+
+我们可能直接从您处收集个人信息，也可能在您使用本平台时自动从设备收集，或从第三方接收相关信息。
+
+3.1 您直接提供的信息
+
+根据您使用本平台的方式，您可能向我们提供以下信息：
+
+账户信息：例如电子邮箱地址、用户名、显示名称、密码、登录凭证及账户偏好设定。
+出生与档案信息：例如出生日期、出生时间、出生地点、性别、语言偏好、时区、与地点相关的档案资料，以及可选的个性化字段（例如性格类型或类似偏好数据）。
+AI 输入与对话内容：例如提示词、提问内容、聊天消息、备注、反馈、请求生成的报告及您提交至本平台的其他内容。
+好友 / 共享信息：在相关功能开放时，可能包括基于联系人或识别信息的好友资料、关系标签、授权权限、共享偏好，以及您为合盘或关系分析输入的他人信息。
+支付与交易信息：例如交易编号、购买金额、订阅状态、账单国家、订单记录、积分余额、退款状态及有限的支付元数据。若您的支付由第三方支付服务商处理，我们不会直接存储完整信用卡或银行账户信息。
+通讯信息：例如客服信息、投诉、请求、问卷回复、电子邮件及与我们的其他往来记录。
+用户内容：如功能开放，可能包括文字、图片、上传材料、设定、个人主页内容、公开内容、评论或您提交的其他材料。
+3.2 自动收集的信息
+
+当您使用本平台时，我们可能自动收集某些信息，包括：
+
+使用信息：例如浏览页面、使用功能、停留时长、按钮点击、导航路径、会话活动、请求时间戳、token 消耗、API 使用情况及互动历史。
+设备与技术信息：例如 IP 地址、浏览器类型、操作系统、设备类型、设备型号、应用版本、语言设定、时区、屏幕尺寸、崩溃报告、诊断数据及性能日志。
+日志信息：例如服务器日志、登录验证事件、安全事件、访问时间、错误日志及网络活动。
+Cookies 及类似技术：例如 cookies、本地存储、会话令牌、分析工具、像素、软件开发工具包（SDK）及其他用于运营、安全保障、统计与优化本平台的类似技术。
+大致位置信息：该信息可能基于您的 IP 地址、设备设定或时区信息推断得出。
+3.3 来自第三方的信息
+
+我们也可能从第三方接收信息，例如：
+
+支付服务商及订阅平台；
+应用商店提供方；
+身份验证或登录服务提供方；
+分析、基础设施及安全服务提供方；
+营销、推荐或活动合作方；以及
+在获得授权的前提下输入与您相关信息的其他用户。
+四、敏感信息
+
+根据某些法律或具体情境，本平台处理的部分信息可能被视为敏感信息，包括：
+
+出生日期、出生时间及出生地点；
+可能反映个人信念、偏好或推断特征的档案资料；
+可能涉及情绪、关系、精神性或高度个人主题的 AI 对话内容；以及
+您为合盘或关系分析而提供的他人相关信息。
+
+仅在您愿意且（如适用）已取得相应授权或同意的情况下，才应提供该等信息。
+
+除非我们明确要求且为合法目的所必要，否则请勿通过本平台提交高度敏感的医疗、法律、财务、政府身份证件、生物识别或其他类似敏感信息。
+
+五、我们如何使用个人信息
+
+我们可能基于以下目的收集、使用、存储及以其他方式处理个人信息：
+
+创建、维护、保护及管理您的账户；
+生成命盘、每日运势、合盘分析、报告及其他平台输出内容；
+提供 AI 对话、咨询、解读及个性化功能；
+处理购买、积分、订阅、退款及账单相关事务；
+就账户、交易、服务更新、安全提醒及客服事宜与您沟通；
+启用好友共享、授权查看权限及用户自行控制的数据共享功能；
+运营、维护、排查故障、调试、测试、监测并改进本平台；
+衡量使用情况、性能、稳定性及互动程度；
+开发新功能、新服务及新产品；
+保护本平台、用户及我们的业务，防范欺诈、滥用、安全威胁及其他不当行为；
+执行《使用条款》及其他政策；
+履行法律、监管、税务、会计、争议处理及记录保存义务；
+在法律允许并遵循您的选择前提下，向您发送营销或推广信息；以及
+在法律允许范围内，为并购、重组、融资、投资或业务出售相关的尽职调查提供支持。
+
+在法律允许范围内，我们也可能将去标识化、汇总化或匿名化的信息用于分析、产品开发、训练、基准测试、服务改进、研究或商业用途。
+
+六、AI 处理与模型服务商
+
+为实现本平台的核心功能，部分个人信息及输入内容可能会由第三方 AI 及机器学习服务商处理。
+
+根据您对本平台的使用情况，被处理的信息可能包括：
+
+出生信息；
+提示词及对话内容；
+选定的档案属性；
+与生成回复相关的使用情境信息。
+
+我们使用该等服务商以帮助生成输出内容、提升系统表现、识别滥用行为并支持平台运营。
+
+在法律允许范围内，并受相关服务商设定、保护措施及合同控制约束，我们也可能使用某些数据来测试、改进、监控、调校或支持本平台的性能与质量。
+
+七、Cookies、分析工具与类似技术
+
+我们可能使用 cookies 及类似技术来：
+
+保持您的登录状态；
+记住您的偏好与设定；
+维护会话安全；
+了解本平台的使用方式；
+衡量流量、互动及性能；
+诊断技术问题；以及
+改进本平台及用户体验。
+
+您可通过浏览器或设备设定管理 cookies。但关闭某些 cookies 或类似技术，可能影响本平台的功能、表现或安全性。
+
+如我们未来使用分析或广告相关技术，我们可能更新本政策，并在法律要求时另行征求您的同意。
+
+八、设备权限与应用功能
+
+如您使用移动应用程式或某些基于设备的功能，本平台可能申请以下权限：
+
+通知；
+相机；
+麦克风；
+相册或存储；以及
+定位。
+
+我们仅在为提供相关功能而合理必要时申请该等权限。您通常可通过设备设定管理权限，但关闭权限可能限制部分功能使用。
+
+九、好友功能与用户间共享
+
+在本平台提供好友、合盘、关系分析或共享查看功能的情况下，个人信息仅会在符合您的设定、授权或主动操作，或您主动提交他人信息的前提下，向其他用户展示。
+
+可能包括例如：
+
+允许某位好友查看特定命盘解读；
+启用您与他人之间的合盘分析；
+选择是否允许分享某些每日运势或个人洞察；或
+撤回先前授予的查看权限。
+
+在向本平台提供他人信息前，您应确保自己已取得适当授权或同意。
+
+也请您注意：当某项功能允许内容与其他用户共享时，该用户可能会在平台外保留、复制、截图或进一步传播相关内容。对于您选择共享的信息，我们无法完全控制其他用户后续的行为。
+
+十、我们如何披露个人信息
+
+在合理必要的情况下，我们可能向以下类别的接收方披露个人信息：
+
+AI 与技术服务商：用于生成输出、处理输入、提供基础设施支持、识别滥用及改进服务。
+托管、基础设施与云服务商：例如数据托管、存储、传输、备份及安全服务供应商。
+支付处理商与订阅平台：用于交易处理、反欺诈及账单支持。
+通讯服务商：用于发送电子邮件、通知、验证码及服务消息。
+分析、诊断与安全服务商：用于性能监测、崩溃报告、安全日志及服务衡量。
+专业顾问与服务提供方：如律师、会计师、审计师、保险机构、合规服务商及顾问。
+公司交易相关方：如投资人、收购方、融资方、合并主体或交易顾问，但会受适当保密安排约束。
+监管机构、政府机关、执法部门或法院：在法律要求、法律允许或为保护权利、安全、财产或本平台完整性所必需时。
+其他用户：在您授权共享，或使用本就设计为向其他用户披露信息的功能时。
+
+我们不会为获取金钱对价而出售您的个人信息。我们也不会将您的个人信息出租给第三方用于其自身独立的营销目的。
+
+十一、跨境数据传输
+
+由于本平台使用全球化基础设施及服务提供方，您的个人信息可能会被存储、处理或访问于您居住国家 / 地区以外的司法辖区，包括美国及我们服务商运营所在的其他地区。
+
+在适用法律要求下，我们会采取合理措施，确保境外接收方按照适用隐私要求处理个人信息，包括通过合同保障、服务商评估、访问限制以及适当的技术与组织措施。
+
+您使用本平台，即表示您知悉您的信息可能按本政策所述进行国际传输。
+
+十二、数据安全
+
+我们采取合理的技术、行政及组织措施，以保护个人信息免遭未经授权的访问、丢失、滥用、干扰、披露、篡改或毁坏。
+
+在适当情况下，该等措施可能包括：
+
+使用 HTTPS/TLS 加密传输；
+密码哈希处理；
+身份验证控制与访问管理；
+网络隔离及基础设施安全控制；
+日志记录与监测；
+最小权限访问原则；以及
+对供应商及服务商的控制措施。
+
+但没有任何系统、传输方式或存储安排能够做到绝对安全。因此，我们无法保证绝对安全。
+
+如我们知悉存在影响个人信息的数据泄露或安全事件，我们可能会按照法律要求采取调查、控制、补救及必要通知等措施。
+
+十三、数据保存期限
+
+我们将在为实现本政策所述目的而合理必要的期限内保存个人信息，包括为提供本平台、维护账户、履行法律义务、解决争议、防范欺诈、执行协议及保留合法业务记录所需的期限。
+
+不同类型信息的保存期限可能因其用途不同而有所差异。例如，我们可能会：
+
+在您的账户处于活跃状态期间保存账户及档案数据；
+为会计、合规、税务及争议处理目的保存交易及账单记录；
+为服务支持及法律目的保存客服沟通记录；
+为防范欺诈、安全保障及系统完整性目的保存部分日志及安全记录；
+基于灾难恢复及系统运营需要，在有限期间内保存备份副本。
+
+当个人信息不再需要时，我们可能删除、去标识化、汇总化或以其他方式使其无法识别，除非法律要求或允许继续保存。
+
+请注意，从活跃系统中删除信息未必会即时完成，备份、日志及归档系统中的删除可能需要一定时间同步完成。
+
+十四、您的权利与选择
+
+根据适用法律，您可能对您的个人信息享有以下权利：
+
+请求访问我们持有的关于您的个人信息；
+请求更正不准确、不完整或过时的信息；
+请求删除某些个人信息；
+在基于同意处理信息时撤回同意；
+反对或限制某些处理活动；
+在适用情况下请求数据可携带；
+选择退出某些营销通讯；以及
+请求了解我们如何处理您的个人信息。
+
+您也可能可以通过账户设定直接管理部分信息，例如档案资料、共享权限、通知偏好及其他设置。
+
+为保护隐私与安全，我们在处理请求前可能需要验证您的身份。在法律允许的情况下，如请求将影响他人权利、损害安全、与法律义务冲突或造成明显不成比例负担，我们也可能拒绝或限制该请求。
+
+十五、账户删除
+
+您可通过联系我们，或在功能开放时使用应用内 / 账户设定中的相关工具，申请删除您的账户及相关个人信息。
+
+当您申请删除时，我们可能会：
+
+验证您的身份；
+停用您的账户；
+删除或去标识化可删除的信息；以及
+在法律、安保、反欺诈、税务、会计、争议处理、备份或合规要求下保留有限信息。
+
+仅从设备中删除应用程式，并不会自动删除您的账户或数据。
+
+十六、营销与通讯
+
+我们可能向您发送与服务相关的通讯，例如：
+
+验证邮件；
+交易确认；
+安全提醒；
+账户通知；
+客服更新；以及
+重要的产品或政策更新。
+
+在法律允许的情况下，我们也可能向您发送营销或推广信息。您可通过邮件中的退订机制或联系我们来退订营销邮件。即使您选择退出营销信息，我们在必要时仍可能发送非推广性质的服务相关通知。
+
+十七、自动化处理与个性化
+
+本平台使用自动化系统（包括 AI 及基于规则的处理机制）来生成输出、进行内容个性化、支持推荐、识别滥用行为并运行某些功能。
+
+这些处理过程可能使用您的出生数据、档案信息、使用活动、偏好及互动历史。
+
+本平台输出旨在用于信息参考、个人反思、文化体验及娱乐用途，并非为了作出某些隐私法所设想的那类对您具有法律效果或类似重大影响的决定。不过，如适用法律赋予您与自动化决策相关的权利，您可就该等权利联系我们。
+
+十八、儿童与未成年人
+
+本平台不面向 16 岁以下的儿童，我们也不会故意收集 16 岁以下儿童的个人信息。
+
+如您未满 18 岁，应仅在父母或法定监护人知情并同意的情况下使用本平台。
+
+如我们知悉在未获得适当授权的情况下收集了 16 岁以下儿童的个人信息，我们可能采取措施删除相关信息。
+
+如父母或监护人认为未成年人不当向我们提供了个人信息，可联系我们。
+
+十九、第三方链接与服务
+
+本平台可能包含第三方服务的链接、整合接口或内容。我们不对该等第三方的隐私、安全或数据处理做法负责。
+
+您应自行查阅您所使用的任何第三方服务的隐私政策及条款。
+
+二十、特定地区补充说明
+20.1 澳大利亚
+
+如您位于澳大利亚，您可能依据《1988年隐私法》及澳大利亚隐私原则享有访问、更正等权利。
+
+如您认为我们侵犯了您的隐私，您可先联系我们。在适用情况下，您也可向澳大利亚信息专员办公室（OAIC）提出投诉。
+
+20.2 欧洲经济区、英国及瑞士
+
+如您位于欧洲经济区、英国或瑞士，您可能依据适用数据保护法律享有访问、更正、删除、限制处理、反对处理及数据可携带等权利，但须受法律限制。
+
+我们处理个人信息的法律基础可能包括：
+
+履行合同；
+合法利益；
+履行法律义务；以及
+在适用情况下基于您的同意。
+
+如您对我们处理您个人信息的方式不满意，您也可能有权向当地监管机构投诉。
+
+20.3 美国部分州居民
+
+根据您所在的美国州份，您可能享有了解、访问、更正、删除及获取某些个人信息副本的权利，以及对我们某些处理请求决定提出申诉的权利。
+
+我们不会为获取金钱对价而出售个人信息；除非另有说明，我们也不会将敏感个人信息用于超出提供服务所需范围、且需要特别限制权利的用途。
+
+二十一、本政策的变更
+
+我们可不时更新本政策。如我们作出重大修改，可能通过更新本政策顶部日期、在本平台发布通知、发送电子邮件或在产品内提示等方式向您告知。
+
+在更新后的政策生效后，您继续使用本平台，即表示您知悉该更新后的政策。
+
+二十二、联系我们
+
+如您对本政策或我们处理个人信息的方式有任何问题、请求或投诉，请通过以下方式联系我们：
+
+公司名称：Module Agents AI Pty Ltd
+电子邮箱：ziwei@hebb.io
+
+如您位于澳大利亚并希望联系 OAIC，可访问 OAIC 官网或通过其现行投诉渠道进行联系。
+
+1. Introduction
+
+This Privacy Policy ("Policy") explains how Module Agents AI Pty Ltd(ABN 67 693 756 259) ("Company", "we", "us", or "our") collects, uses, stores, discloses, and otherwise handles personal information in connection with the Ziwei Pro platform, including the websites at ziwei.pro, ziwei.guru, any related applications, products, tools, features, communications, and services (collectively, the "Platform").
+
+This Policy is intended to help you understand what information we collect, why we collect it, how we use it, who we share it with, how long we keep it, and what rights and choices you may have.
+
+We are an Australian company and handle personal information in accordance with applicable laws, including the Privacy Act 1988 (Cth) and the Australian Privacy Principles (APPs). Depending on where you are located, additional local privacy rights may also apply to you.
+
+By accessing or using the Platform, you acknowledge that you have read and understood this Policy.
+
+2. Scope of This Policy
+
+This Policy applies to personal information we collect when you:
+
+visit or use the Platform;
+create or use an account;
+purchase credits, subscriptions, reports, or other paid services;
+interact with AI chat, chart analysis, or other personalised features;
+contact us, request support, or communicate with us;
+participate in surveys, promotions, waitlists, testing, or events; or
+otherwise interact with us in relation to the Platform.
+
+This Policy does not apply to third-party services, websites, platforms, payment providers, app stores, AI providers, or other services that we do not control, even if they are linked to or integrated with the Platform. Those third parties may have their own privacy policies and terms.
+
+3. Personal Information We Collect
+
+We may collect personal information directly from you, automatically from your device or use of the Platform, and from third parties.
+
+3.1 Information You Provide Directly
+
+Depending on how you use the Platform, you may provide us with:
+
+Account Information such as your email address, username, display name, password, login credentials, and account preferences.
+Birth and Profile Information such as date of birth, time of birth, place of birth, gender, language preference, time zone, location-related profile details, and optional personalisation fields (for example, personality type or similar preference data).
+AI Input and Conversation Content such as prompts, questions, chat messages, notes, feedback, reports requested, and other content you submit to the Platform.
+Friend / Sharing Information where available, such as contact-based identifiers, relationship labels, permissions, sharing preferences, and information you input about another person for compatibility or chart purposes.
+Payment and Transaction Information such as transaction IDs, purchase amounts, subscription status, billing country, order history, credits balance, refund status, and limited payment metadata. We do not directly store your full credit card or bank account details where those are processed by third-party payment providers.
+Communications such as customer support messages, complaints, requests, survey responses, emails, and other correspondence with us.
+User Content such as text, images, uploaded materials, settings, profile content, public content, comments, or other materials you submit if such features are available.
+3.2 Information Collected Automatically
+
+When you use the Platform, we may automatically collect certain information, including:
+
+Usage Information such as pages viewed, features used, time spent, button clicks, navigation paths, session activity, request timestamps, tokens consumed, API usage, and interaction history.
+Device and Technical Information such as IP address, browser type, operating system, device type, device model, app version, language settings, time zone, screen size, crash reports, diagnostic data, and performance logs.
+Log Information such as server logs, authentication events, security events, access times, error logs, and network activity.
+Cookies and Similar Technologies such as cookies, local storage, session tokens, analytics tools, pixels, software development kits (SDKs), and similar technologies used to operate, secure, measure, and improve the Platform.
+Approximate Location Information which may be inferred from your IP address, device settings, or time zone information.
+3.3 Information from Third Parties
+
+We may receive information from third parties, such as:
+
+payment processors and subscription platforms;
+app store providers;
+authentication or sign-in providers;
+analytics, infrastructure, and security providers;
+marketing, referral, or campaign partners; and
+other users, where they input information relating to you and are authorised to do so.
+4. Sensitive Information
+
+Some information processed by the Platform may be regarded as sensitive under certain laws or contexts, including:
+
+birth date, time, and place;
+profile information that may reveal personal beliefs, preferences, or inferred traits;
+AI conversation content that may include emotional, relational, spiritual, or personal topics; and
+information about another person that you provide for compatibility or relationship analysis.
+
+You should only provide such information if you are comfortable doing so and, where required, have authority or consent to provide it.
+
+Please do not use the Platform to submit highly sensitive medical, legal, financial, government ID, biometric, or other similarly sensitive information unless specifically requested by us and necessary for a legitimate purpose.
+
+5. How We Use Personal Information
+
+We may collect, use, store, and otherwise process personal information for the following purposes:
+
+to create, maintain, secure, and administer your account;
+to generate natal charts, daily forecasts, compatibility analysis, reports, and other Platform outputs;
+to provide AI chat, consultation, interpretation, and personalisation features;
+to process purchases, credits, subscriptions, refunds, and billing-related matters;
+to communicate with you about your account, transactions, service updates, security alerts, and support matters;
+to enable friend-sharing, authorised viewing permissions, and user-controlled sharing features;
+to operate, maintain, troubleshoot, debug, test, monitor, and improve the Platform;
+to measure usage, performance, reliability, and engagement;
+to develop new features, services, and products;
+to protect the Platform, our users, and our business against fraud, abuse, security threats, and misuse;
+to enforce our Terms of Use and other policies;
+to comply with legal, regulatory, tax, accounting, dispute-resolution, and record-keeping obligations;
+to send marketing or promotional communications where permitted by law and subject to your choices; and
+to carry out mergers, acquisitions, restructures, financing, investment, or sale-related due diligence where lawfully permitted.
+
+We may also use de-identified, aggregated, or anonymised information for analytics, product development, training, benchmarking, service improvement, research, or commercial purposes, to the extent permitted by law.
+
+6. AI Processing and Model Providers
+
+To provide the Platform's core functionality, certain personal information and inputs may be processed by third-party AI and machine-learning service providers.
+
+This may include, depending on your use of the Platform:
+
+birth information;
+prompts and conversation content;
+selected profile attributes;
+usage context relevant to generating a response.
+
+We use such providers to help generate outputs, improve system performance, detect abuse, and support Platform operations.
+
+Where permitted by law and subject to applicable provider settings, safeguards, and contractual controls, we may also use certain data to test, improve, monitor, tune, or support Platform performance and quality.
+
+7. Cookies, Analytics, and Similar Technologies
+
+We may use cookies and similar technologies to:
+
+keep you signed in;
+remember your preferences and settings;
+maintain session security;
+understand how the Platform is used;
+measure traffic, engagement, and performance;
+diagnose technical issues; and
+improve the Platform and user experience.
+
+You may be able to control cookies through your browser or device settings. However, disabling certain cookies or similar technologies may affect the functionality, performance, or security of the Platform.
+
+If we use analytics or advertising-related technologies in the future, we may update this Policy and, where required, request additional consent.
+
+8. Device Permissions and App Features
+
+If you use a mobile application or certain device-based features, the Platform may request access to permissions such as:
+
+notifications;
+camera;
+microphone;
+photo library or storage; and
+location.
+
+We only seek these permissions where reasonably required to provide relevant functionality. You can generally control permissions through your device settings, though disabling permissions may limit certain features.
+
+9. Friend Features and User-to-User Sharing
+
+Where the Platform offers friend, compatibility, relationship, or shared-viewing features, personal information may be made visible to another user only in accordance with your settings, permissions, or direct actions, or where you submit information relating to another person.
+
+Examples may include:
+
+allowing a friend to view certain chart interpretations;
+enabling compatibility analysis between you and another person;
+choosing whether certain daily forecasts or insights can be shared; or
+revoking previously granted access.
+
+You are responsible for ensuring that you have appropriate authority or consent before providing another person's information to the Platform.
+
+Please remember: where a feature allows content to be shared with another user, that other user may retain, copy, screenshot, or further disclose that content outside the Platform. We cannot fully control what other users do with information you choose to share.
+
+10. How We Disclose Personal Information
+
+We may disclose personal information to the following categories of recipients where reasonably necessary:
+
+AI and technology providers for generating outputs, processing inputs, infrastructure support, abuse detection, and service improvement.
+Hosting, infrastructure, and cloud providers such as data hosting, storage, delivery, backup, and security vendors.
+Payment processors and subscription platforms for transaction processing, fraud prevention, and billing support.
+Communications providers for sending emails, notifications, authentication codes, and service messages.
+Analytics, diagnostics, and security providers for performance monitoring, crash reporting, security logging, and service measurement.
+Professional advisers and service providers such as lawyers, accountants, auditors, insurers, compliance providers, and consultants.
+Corporate transaction counterparties such as investors, acquirers, financiers, merged entities, or transaction advisers, subject to appropriate confidentiality measures.
+Regulators, authorities, law enforcement, or courts where required or permitted by law, or where necessary to protect rights, safety, property, or the integrity of the Platform.
+Other users where you authorise sharing or use features that are designed to disclose information to another user.
+
+We do not sell your personal information to third parties for money. We also do not rent your personal information to third parties for their own independent marketing purposes.
+
+11. Cross-Border Data Transfers
+
+Because the Platform uses global infrastructure and service providers, your personal information may be stored, processed, or accessed in countries outside the country where you live, including the United States and other jurisdictions in which our service providers operate.
+
+Where required by applicable law, we take reasonable steps to ensure that overseas recipients handle personal information in a manner consistent with applicable privacy requirements, including through contractual safeguards, provider assessments, access restrictions, and appropriate technical and organisational measures.
+
+By using the Platform, you acknowledge that your information may be transferred internationally as described in this Policy.
+
+12. Data Security
+
+We implement reasonable technical, administrative, and organisational measures designed to protect personal information from unauthorised access, loss, misuse, interference, disclosure, alteration, or destruction.
+
+These measures may include, where appropriate:
+
+encrypted transmission using HTTPS/TLS;
+password hashing;
+authentication controls and access management;
+network segregation and infrastructure security controls;
+logging and monitoring;
+least-privilege access principles; and
+vendor and service-provider controls.
+
+However, no system, transmission method, or storage arrangement is completely secure. Therefore, we cannot guarantee absolute security.
+
+If we become aware of a data breach or security incident affecting personal information, we may take steps required by law, including investigation, containment, remediation, and notification where appropriate.
+
+13. Data Retention
+
+We retain personal information for as long as reasonably necessary for the purposes described in this Policy, including to provide the Platform, maintain accounts, comply with legal obligations, resolve disputes, prevent fraud, enforce agreements, and preserve legitimate business records.
+
+Retention periods may vary depending on the type of information and the purpose for which it was collected. For example, we may retain:
+
+account and profile data while your account remains active;
+transaction and billing records for accounting, compliance, tax, and dispute purposes;
+support correspondence for service and legal purposes;
+certain logs and security records for fraud prevention, security, and system integrity;
+backup copies for limited periods consistent with disaster recovery and system operations.
+
+When personal information is no longer required, we may delete it, de-identify it, aggregate it, or otherwise render it non-identifiable, unless retention is required or permitted by law.
+
+Please note that deletion from active systems may not be immediate and may take time to flow through backups, logs, and archival systems.
+
+14. Your Rights and Choices
+
+Depending on applicable law, you may have rights in relation to your personal information, including the right to:
+
+request access to personal information we hold about you;
+request correction of inaccurate, incomplete, or outdated information;
+request deletion of certain personal information;
+withdraw consent where processing is based on consent;
+object to or request restriction of certain processing;
+request portability of certain personal information where applicable;
+opt out of certain marketing communications; and
+request information about how we process your personal information.
+
+You may also be able to manage certain information directly through your account settings, such as profile information, sharing permissions, notification preferences, and other settings.
+
+To protect privacy and security, we may need to verify your identity before fulfilling a request. We may also decline or limit a request where permitted by law, including where the request would adversely affect others' rights, compromise security, conflict with legal obligations, or involve disproportionate effort.
+
+15. Account Deletion
+
+You may request deletion of your account and associated personal information by contacting us or, where available, using in-app or account settings tools.
+
+When you request deletion, we may:
+
+verify your identity;
+deactivate your account;
+delete or de-identify eligible information; and
+retain limited information where required for legal, security, fraud prevention, tax, accounting, dispute resolution, backup, or compliance purposes.
+
+Deleting the app from your device does not automatically delete your account or data.
+
+16. Marketing and Communications
+
+We may send you service-related messages, such as:
+
+verification emails;
+transaction confirmations;
+security alerts;
+account notices;
+support updates; and
+important product or policy updates.
+
+Where permitted by law, we may also send marketing or promotional communications. You can opt out of marketing emails by using the unsubscribe mechanism in the message or by contacting us. Even if you opt out of marketing, we may still send non-promotional service-related communications where necessary.
+
+17. Automated Processing and Personalisation
+
+The Platform uses automated systems, including AI and rules-based processes, to generate outputs, personalise content, support recommendations, detect abuse, and operate certain features.
+
+These processes may use information such as your birth data, profile information, usage activity, preferences, and interaction history.
+
+The outputs of the Platform are intended for informational, reflective, cultural, and entertainment purposes, and are not intended to produce legal or similarly significant decisions about you in the way contemplated under some privacy laws. However, if applicable law grants you rights regarding automated decision-making, you may contact us regarding such rights.
+
+18. Children and Minors
+
+The Platform is not directed to children under the age of 16, and we do not knowingly collect personal information from children under 16.
+
+If you are under 18, you should use the Platform only with the involvement and consent of a parent or legal guardian.
+
+If we become aware that we have collected personal information from a child under 16 without appropriate authorisation, we may take steps to delete that information.
+
+Parents or guardians who believe that a minor has provided us with personal information inappropriately may contact us.
+
+19. Third-Party Links and Services
+
+The Platform may contain links to, integrations with, or content from third-party services. We are not responsible for the privacy, security, or data-handling practices of those third parties.
+
+You should review the privacy policies and terms of any third-party service you use.
+
+20. Region-Specific Disclosures
+20.1 Australia
+
+If you are in Australia, you may have rights under the Privacy Act 1988 (Cth) and the Australian Privacy Principles, including rights to access and correction.
+
+If you believe we have interfered with your privacy, you may contact us first. You may also lodge a complaint with the Office of the Australian Information Commissioner (OAIC) if applicable.
+
+20.2 EEA, UK, and Switzerland
+
+If you are located in the EEA, UK, or Switzerland, you may have rights under applicable data protection law, including rights of access, correction, erasure, restriction, objection, and portability, subject to legal limitations.
+
+Our legal bases for processing may include:
+
+performance of a contract;
+legitimate interests;
+compliance with legal obligations; and
+consent, where applicable.
+
+If you are dissatisfied with our handling of your personal information, you may also have the right to complain to your local supervisory authority.
+
+20.3 Certain U.S. Residents
+
+Depending on your U.S. state of residence, you may have privacy rights including rights to know, access, correct, delete, and obtain a portable copy of certain personal information, as well as rights to appeal certain decisions regarding your request.
+
+We do not sell personal information for monetary consideration, and we do not use sensitive personal information for purposes requiring a special limitation right beyond providing our services, unless stated otherwise.
+
+21. Changes to This Policy
+
+We may update this Policy from time to time. If we make material changes, we may notify you by updating the date at the top of this Policy, posting a notice on the Platform, sending an email, or providing an in-product notice where appropriate.
+
+Your continued use of the Platform after the effective date of an updated Policy means that you acknowledge the updated Policy.
+
+22. Contact Us
+
+If you have any questions, requests, or complaints regarding this Policy or our handling of personal information, please contact us at:
+
+Entity: Module Agents AI Pty Ltd
+Email: ziwei@hebb.io
+
+If you are in Australia and wish to contact the OAIC, you may visit the OAIC website or use their current complaint channels.
+
+了解自己，读懂他人
+
+免责声明
+隐私政策
+使用条款
+© 2026 StarAsk.io

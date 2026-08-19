@@ -1,0 +1,634 @@
+URL: https://www.starask.io/zh/terms/
+TITLE: Terms of Service | 星问
+
+VISIBLE TEXT
+问问题
+继续追踪
+理解彼此
+综合报告
+中
+EN
+日
+한
+打开 StarAsk
+服务条款 / Terms of Service
+
+生效日期 / Effective Date: 2026-03-12 · Last Updated: 2026-03-12
+
+一、引言与接受
+
+本使用条款（以下简称"本条款"）构成您（以下简称"您"、"用户"）与 Module Agents AI Pty Ltd（ABN 67 693 756 259，以下简称"本公司"、"我们"）之间具有法律约束力的协议。本公司运营 Ziwei Pro 网站、应用程式及相关服务，包括通过 ziwei.pro, ziwei.guru 或任何关联应用、介面所提供的内容、工具、功能、软件及 AI 生成内容（以下统称"本平台"）。
+
+您访问、浏览、注册、购买或以其他方式使用本平台，即表示您已阅读、理解并同意受本条款及本公司的《隐私政策》约束。如您不同意，请勿访问或使用本平台。
+
+如您代表某机构、公司或其他实体使用本平台，则您声明并保证您有权使该实体受本条款约束。在该等情况下，"您"亦包括该实体。
+
+二、用户资格
+
+您必须年满 16 周岁方可使用本平台。如您未满 18 周岁，则仅可在父母或法定监护人知情、监督及同意的情况下使用本平台，且该父母或监护人同意受本条款约束。
+
+您声明并保证：
+
+您具有订立具有法律约束力协议的能力；
+您向我们提供的所有资料均真实、准确、最新且完整；以及
+您对本平台的使用不违反任何适用法律或法规。
+
+在法律允许范围内，我们可拒绝任何用户访问本平台。
+
+三、平台服务说明
+
+Ziwei Guru 是一个结合人工智能与命理 / 占星逻辑的平台。本平台可能提供的服务和功能包括但不限于：
+
+紫微斗数命盘生成及解读；
+每日、每周、每月或其他周期性的运势内容；
+合盘、关系或人际互动分析；
+AI 对话或咨询功能；
+个人化洞察、报告、摘要及建议；
+教育、文化、资讯或娱乐内容；以及
+我们不时提供的其他相关工具、功能、付费服务或测试性功能。
+
+部分功能可能仅在特定司法辖区、语言版本、服务方案、装置或渠道中提供。我们可随时增加、删除、修改、暂停或终止本平台的任何部分。
+
+四、服务性质的重要说明
+
+本平台提供的是基于命理、占星、象征系统及传统理论（包括紫微斗数）并由人工智能生成的解释性内容。本平台旨在用于个人启发、反思、文化探索、资讯参考及娱乐用途。
+
+您理解并同意，本平台不提供，且不应被视为提供以下任何内容：
+
+医疗建议；
+精神科、心理或心理健康建议；
+法律建议；
+财务、税务、投资或保险建议；
+专业咨询服务；
+紧急、危机或人身安全建议；或
+任何保证性的预测、诊断或结果。
+
+您不得将本平台内容视为替代合资格专业人士意见。您基于本平台内容作出的任何决定，风险由您自行承担。
+
+如您正处于心理困扰、危机、自伤念头，或存在任何医疗或心理健康问题，请立即寻求合资格专业人士或紧急服务机构的帮助。
+
+五、AI 生成内容及不得依赖声明
+
+本平台使用人工智能、机器学习系统、软件逻辑及规则模型生成内容。您理解并同意，AI 生成内容可能：
+
+不准确、不完整、过时、不一致或具有误导性；
+对相似问题产生不同结果；
+反映模式而非事实；
+属于主观、象征性或近似性的解释；以及
+存在错误、遗漏或非预期结果。
+
+我们不保证任何输出内容真实、正确、适合您的具体情况，或符合任何特定用途。
+
+您应自行对相关输出进行审阅、判断及决定是否使用或依赖。
+
+六、账户与安全
+
+使用本平台的部分功能时，您可能需要注册账户。您同意：
+
+提供准确的注册资料；
+妥善保管您的登录凭证并对其保密；
+除非经我们明确允许，不得与他人共享账户；
+一旦发现未经授权使用或疑似安全事件，应及时通知我们；以及
+对您账户项下发生的一切活动承担责任。
+
+在开放部分功能前，我们可能要求您验证身份、邮箱、手机号码、年龄或付款方式。
+
+因您未妥善保管账户信息而导致的任何损失，我们概不负责。
+
+七、付费服务、积分、计费与退款
+
+本平台的部分功能可能需要付费使用，包括一次性购买、预付积分、订阅计划、高级报告或其他付费功能。
+
+7.1 积分
+
+本平台可采用"积分（Credits）"机制。积分可能根据使用量、计算资源消耗、功能类别或我们制定的其他规则进行扣除。
+
+积分：
+
+可能以澳元、美元、人民币或我们指定的其他货币计价；
+除法律另有要求外，不具有现金价值；
+除非我们明确允许，不得转让；
+不可兑换现金；以及
+如购买页面或相关活动另有说明，可能受有效期、使用限制或优惠条件约束。
+7.2 价格调整
+
+我们可随时调整价格、积分消耗规则、订阅费用、服务方案内容或计费结构。如法律要求，我们将在调整生效前提供通知。
+
+7.3 第三方支付服务商
+
+付款可能通过第三方支付服务商处理，包括 Stripe、应用商店或其他支付处理机构。您的付款亦可能受该等第三方的条款及政策约束。
+
+除法律另有规定外，对于第三方支付服务商引起的错误、宕机、延迟或安全事件，我们不承担责任。
+
+7.4 退款
+
+除适用法律另有规定外，所有购买均为最终交易，积分、订阅及付费功能一经购买或启用，概不退款。
+
+本条不影响您依据澳大利亚消费者法或其他强制性消费者保护法律享有的不可排除权利。
+
+7.5 税费
+
+您应自行承担因购买或使用本平台而产生的任何适用税费、关税、银行手续费、汇率费用或其他收费。
+
+八、订阅与自动续费
+
+如我们提供订阅服务，除具体优惠方案另有说明外，以下条款适用：
+
+订阅可能按相同或类似计费周期自动续费，除非您在续费前取消；
+您授权我们或我们的支付服务商收取相应的周期性费用；
+您可通过账户设定、应用商店账户或支付服务商介面取消后续续费（视情况而定）；
+除法律另有要求外，取消将在当前计费周期结束后生效；以及
+删除应用程式或停止使用本平台并不会自动取消订阅。
+
+如订阅通过 Apple App Store 或 Google Play 购买，相关计费与取消可能仅能通过该等平台处理。
+
+九、可接受使用规则
+
+您同意不得，也不得协助或允许他人：
+
+将本平台用于任何违法、欺诈、滥用、诽谤、骚扰、有害或误导性目的；
+提交虚假、误导性资料，或冒充他人；
+利用本平台生成垃圾信息、操纵性内容、批量输出或骚扰性讯息；
+干扰或破坏本平台、服务器、网络或安全机制；
+未经授权测试、探测或扫描本平台的漏洞；
+反向工程、反编译、反汇编、复制、提取、复刻或以其他方式试图发现源代码、提示词、模型结构、数据集、系统指令或底层组件；
+抓取、收集、系统性提取本平台的数据、输出或内容；
+除非我们明确授权，不得使用机器人、脚本、爬虫、浏览器自动化工具或类似方式访问或使用本平台；
+利用本平台建立、评测、微调、训练或优化竞争性模型、产品、数据集或服务；
+超出个人许可用途复制、转售、再许可、分发或商业化利用本平台或其输出；
+上传病毒、恶意代码或其他有害材料；
+侵犯任何第三方权利，包括隐私权、姓名权、保密权、著作权、商标权或其他知识产权；或
+以任何可能损害、瘫痪、过载或削弱本平台的方式使用本平台。
+
+我们可调查任何违规行为，并采取我们认为适当的措施，包括暂停、终止、封禁、下架、法律追索或与执法机关合作。
+
+十、用户内容与输入资料
+
+您可向本平台提交资料、提示词、问题、出生信息、个人资料、文字、图像或其他材料（统称"用户内容"）。
+
+您声明并保证：
+
+您拥有或已取得提交该等用户内容所需的一切权利；
+您的用户内容不违反法律或第三方权利；以及
+如您向本平台提交他人的出生资料、关系信息或其他个人信息，您已取得相关人士所需的同意。
+
+您保留对用户内容的所有权，但您授予我们全球范围内、非独占、免版税的许可，使我们得以在遵守《隐私政策》的前提下，为运营、提供、维护、安全保障、改进及支持本平台之目的，对该等用户内容进行托管、储存、处理、复制、调整、传输及使用。
+
+如用户内容违反本条款或对我们或他人造成风险，我们可将其删除。
+
+十一、隐私与数据处理
+
+我们对个人信息的收集、使用、储存及披露受本公司的《隐私政策》约束。
+
+您使用本平台，即表示您理解并同意：
+
+我们可能为提供本平台而处理您的个人信息及使用数据；
+为生成某些服务，本平台可能需要处理包括出生日期、出生时间、出生地点在内的敏感资料；
+数据可能通过第三方托管、分析、基础设施、通讯、支付、安全或 AI 服务商进行处理；以及
+在遵守适用法律的前提下，数据可能被传输、储存或访问于您所在司法辖区以外的地区。
+
+如您提供他人的个人信息，您应确保该等提供是合法的，并已取得所需同意。
+
+十二、设备权限、移动装置与应用商店条款
+
+如您通过移动应用程式或移动装置使用本平台，本平台可能为启用部分功能而申请通知、相机、麦克风、相册、通讯录或定位等权限。您可通过装置设定管理部分权限，但关闭权限可能影响相关功能使用。
+
+您对本平台移动应用版本的使用，亦可能受 Apple App Store、Google Play 或其他应用商店之条款、条件及政策约束。如该等分发渠道之强制性要求与本条款存在不一致，则仅在该等分发渠道要求的范围内，以其规定为准。
+
+十三、知识产权
+
+本平台及其中包含的软件、代码、介面、流程、设计、文字、图形、音频、视频、报告、模板、AI 系统、模型行为、提示词、底层逻辑、专有技术、商标、标识、品牌及其他材料或技术，均归我们所有或经合法授权使用，并受著作权、商标、商业秘密及其他法律保护。
+
+除本条款明确授予的有限权利外，我们未向您授予任何其他权利。
+
+除非我们另有书面同意，您仅可将本平台及其输出用于合法、个人、非商业用途。
+
+您不得删除、遮盖或更改任何版权、商标或其他专有权利声明。
+
+十四、输出内容的使用与限制
+
+在您遵守本条款及适用法律的前提下，我们授予您有限的、可撤销的、非独占、不可转让的权利，使您可将本平台为您生成的输出内容用于个人、非商业用途。
+
+您不得：
+
+将本平台输出宣称为专业建议或确定无误的真理；
+未经我们书面同意转售或商业化利用输出内容；
+以侵犯法律或第三方权利的方式使用输出内容；或
+以会造成背书、确定性、诊断性或事实权威错觉的方式使用输出内容。
+
+由于 AI 输出可能在不同用户之间出现相似情况，我们不保证任何输出具有独占性或唯一性。
+
+十五、第三方服务与链接
+
+本平台可能包含对第三方网站、工具、内容、API、软件、支付服务商、分析服务商、托管服务商或其他服务的链接、整合或依赖。
+
+我们不控制亦不对任何第三方服务负责，包括其可用性、内容、准确性、合法性、隐私做法、安全性或其条款。您对第三方服务的使用风险由您自行承担，并可能受其单独条款约束。
+
+十六、服务可用性、测试功能与变更
+
+本平台按"现状"及"可提供"基础提供。我们不保证本平台持续不中断、安全无误、无错误或始终可用。
+
+我们可能不时提供 alpha、beta、试点、预览、实验性或抢先体验功能。该等功能可能不完整、不稳定，或受额外限制，我们可随时撤回。
+
+我们可随时修改、更新、暂停或终止本平台或其任何部分，包括功能、输出、价格、整合、服务方案及技术要求。
+
+十七、暂停与终止
+
+在法律允许范围内，我们可在有或无事先通知的情况下，且无需承担责任地暂停、限制或终止您对本平台的访问，如：
+
+您违反本条款；
+我们怀疑存在欺诈、滥用、违法行为或安全风险；
+法律或监管机构要求；
+您的使用使我们、本平台或他人面临损害或责任；或
+我们决定终止本平台或其相关部分。
+
+您可随时停止使用本平台。您亦可申请删除账户，但需遵守我们的法律、监管、反欺诈、安全、备份、争议处理及记录保存要求。
+
+账户终止后，本条款授予您的相关权利立即终止。
+
+十八、免责声明
+
+在法律允许的最大范围内：
+
+本平台及所有内容、输出与服务均按"现状"及"可提供"基础提供；
+我们明确排除所有明示、默示、法定或其他形式的保证、陈述及担保，包括有关适销性、质量、特定用途适用性、所有权、不侵权、准确性、安宁使用、可靠性、可用性或结果的保证；
+我们不保证本平台能满足您的期待、产生任何特定洞察或结果，或符合您的特定需求；以及
+我们不保证任何缺陷将被修复，亦不保证本平台不存在病毒或其他有害组件。
+
+本条款不排除适用法律（包括澳大利亚消费者法）项下依法不得排除的任何保证、权利或救济。
+
+十九、责任限制
+
+在法律允许的最大范围内，本公司及其董事、高级职员、员工、承包商、许可方、关联方、代理人及服务提供商，对因本平台或本条款引起或与之相关的任何间接性、附带性、特殊性、惩罚性、示范性或后果性损失或损害，概不负责，包括利润损失、收入损失、商誉损失、数据损失、商业机会损失、声誉损失、预期节省损失或使用损失。
+
+在法律允许的最大范围内，我们因本平台或本条款产生或相关的累计总责任，不超过以下两者中较高者：
+
+在导致索赔事件发生前 12 个月内，您就相关付费服务实际支付给我们的金额；或
+100 澳元。
+
+本条不适用于依法不得限制或排除的责任。
+
+二十、赔偿责任
+
+您同意就因以下事项引起或与之相关的任何索赔、诉讼、损失、责任、损害、判决、和解、罚款、成本及费用（包括合理律师费），对本公司及其董事、高级职员、员工、承包商、关联方、许可方、代理人及服务提供商进行赔偿、抗辩并使其免受损害：
+
+您对本平台的使用或滥用；
+您的用户内容；
+您违反本条款；
+您违反适用法律；或
+您侵犯任何第三方权利。
+二十一、条款修改
+
+我们可不时更新本条款。如我们作出重大修改，可视情况通过在本平台发布更新版本、更新"最后更新日期"、发送电子邮件或产品内通知等方式向您告知。
+
+更新后的条款生效后，您继续使用本平台，即视为您接受该等更新条款。如您不同意修订后的条款，应停止使用本平台。
+
+二十二、适用法律与争议解决
+
+本条款受澳大利亚联邦法律及新南威尔士州法律管辖并据其解释，但不适用法律冲突原则。
+
+如因本条款或本平台产生或与之相关的争议，双方应先本着诚信原则进行协商解决。
+
+如协商未果，除适用法律另有强制规定外，双方同意提交澳大利亚新南威尔士州法院的非专属管辖。
+
+本条款不妨碍任何一方在有管辖权的法院寻求紧急禁令或衡平法救济。
+
+二十三、其他条款
+23.1 完整协议
+
+本条款连同通过引用明确纳入的相关政策或附加条款（包括《隐私政策》），构成您与我们之间就本平台达成的完整协议。
+
+23.2 可分割性
+
+如本条款任何条文被认定为无效、违法或不可执行，该条文应在法律允许的最大范围内执行，其余条文继续完全有效。
+
+23.3 不弃权
+
+我们未行使或延迟行使本条款项下任何权利，不构成对该权利或任何其他权利的放弃。
+
+23.4 转让
+
+未经我们事先书面同意，您不得转让本条款项下的权利或义务。我们可因公司重组、出售、合并、收购或法律规定而转让本条款项下的权利与义务。
+
+23.5 语言
+
+本条款可能提供多语言版本。如不同语言版本之间存在不一致，除适用法律另有要求外，以英文版本为准。
+
+二十四、联系我们
+
+如您对本条款有任何疑问，请通过以下方式联系我们：
+
+公司名称：Module Agents AI Pty Ltd
+电子邮箱：ziwei@hebb.io
+1. Introduction and Acceptance
+
+These Terms of Use ("Terms") form a legally binding agreement between you ("you", "your", or "User") and Module Agents AI Pty Ltd(ABN 67 693 756 259) ("Company", "we", "us", or "our"), an Australian company that operates the Ziwei Pro websites, applications, and related services, including any content, tools, features, software, and AI-generated outputs made available through ziwei.pro, ziwei.guru or any affiliated application or interface (collectively, the "Platform").
+
+By accessing, browsing, registering for, purchasing from, or otherwise using the Platform, you acknowledge that you have read, understood, and agree to be bound by these Terms and our Privacy Policy. If you do not agree, you must not access or use the Platform.
+
+If you are using the Platform on behalf of an organisation or other entity, you represent and warrant that you have authority to bind that entity to these Terms, and in that case "you" includes that entity.
+
+2. Eligibility
+
+You must be at least 16 years old to use the Platform. If you are under 18, you may only use the Platform with the involvement, supervision, and consent of a parent or legal guardian, and that parent or guardian agrees to be bound by these Terms.
+
+You represent and warrant that:
+
+you are legally capable of entering into a binding agreement;
+all information you provide to us is true, accurate, current, and complete; and
+your use of the Platform does not violate any applicable law or regulation.
+
+We may refuse access to the Platform where permitted by law.
+
+3. Description of the Platform
+
+Ziwei Guru is an AI-enabled metaphysical and astrology-oriented platform. The Platform may provide services and features including, without limitation:
+
+Zi Wei Dou Shu natal chart generation and interpretation;
+daily, weekly, monthly, or other periodic fortune content;
+compatibility, relationship, or interpersonal analysis;
+AI chat or conversational consultation features;
+personalised insights, reports, summaries, and recommendations;
+educational, cultural, informational, or entertainment content; and
+any other related tools, features, content, paid services, or experimental functions we may make available from time to time.
+
+Some features may be available only in certain jurisdictions, languages, plans, devices, or channels. We may add, remove, modify, suspend, or discontinue any aspect of the Platform at any time.
+
+4. Important Nature of the Services
+
+The Platform provides AI-generated interpretations and content based on metaphysical, astrological, symbolic, and traditional systems, including Zi Wei Dou Shu. The Platform is intended for personal insight, reflection, cultural exploration, informational use, and entertainment.
+
+You acknowledge and agree that the Platform does not provide, and must not be treated as providing:
+
+medical advice;
+psychiatric, psychological, or mental health advice;
+legal advice;
+financial, tax, investment, or insurance advice;
+professional counselling;
+emergency, crisis, or safety advice; or
+any guaranteed prediction, diagnosis, or outcome.
+
+You must not rely on the Platform as a substitute for qualified professional advice. Any decision you make based on content from the Platform is made at your own risk.
+
+If you are experiencing distress, crisis, self-harm thoughts, or any medical or mental health issue, you should seek immediate assistance from a qualified professional or emergency services.
+
+5. AI-Generated Content and No Reliance
+
+The Platform uses artificial intelligence, machine learning systems, software logic, and rule-based models to generate outputs. You acknowledge that AI-generated outputs may:
+
+be inaccurate, incomplete, outdated, inconsistent, or misleading;
+differ from one query to another;
+reflect patterns rather than fact;
+produce interpretations that are subjective, symbolic, or approximate; and
+contain errors, omissions, or unexpected results.
+
+We do not warrant that any output is factual, correct, suitable for your circumstances, or fit for any particular purpose.
+
+You remain solely responsible for reviewing, evaluating, and deciding whether to use or rely on any output.
+
+6. Accounts and Security
+
+To access certain features, you may need to create an account. You agree to:
+
+provide accurate registration details;
+keep your login credentials secure and confidential;
+not share your account except as expressly permitted by us;
+notify us promptly of any unauthorised use or suspected security breach; and
+take responsibility for all activity under your account.
+
+We may require verification of identity, email, phone number, age, or payment method before allowing access to certain features.
+
+We are not liable for any loss arising from your failure to safeguard your account credentials.
+
+7. Paid Services, Credits, Billing, and Refunds
+
+Certain features of the Platform may require payment. These may include one-off purchases, prepaid credits, subscription plans, premium reports, or other paid features.
+
+7.1 Credits
+
+The Platform may operate using a credits system. Credits may be deducted based on usage, computational resources, feature type, or other rules determined by us.
+
+Credits:
+
+may be denominated in AUD, CNY, USD or another currency selected by us;
+have no cash value unless required by law;
+are non-transferable unless expressly permitted by us;
+may not be redeemable for cash; and
+may be subject to expiry, limitations, or promotional conditions if disclosed at purchase or in the relevant offer.
+7.2 Pricing
+
+We may change prices, credit costs, subscription fees, plan features, or billing structures at any time. Where required by law, we will provide notice before changes take effect.
+
+7.3 Payment Providers
+
+Payments may be processed by third-party providers, including Stripe, app stores, or other processors. Your payment may also be subject to the terms and policies of those providers.
+
+We are not responsible for errors, outages, delays, or security incidents caused by third-party payment providers, except to the extent required by law.
+
+7.4 Refunds
+
+Unless otherwise required by applicable law, all purchases are final and credits, subscriptions, and paid features are non-refundable once purchased or activated.
+
+Nothing in this clause limits any non-excludable rights you may have under the Australian Consumer Law or other applicable mandatory consumer protection laws.
+
+7.5 Taxes
+
+You are responsible for any applicable taxes, duties, bank fees, foreign exchange fees, or charges imposed in connection with your purchase or use of the Platform.
+
+8. Subscriptions and Auto-Renewal
+
+If we offer subscriptions, the following terms apply unless otherwise stated in the specific offer:
+
+subscriptions may renew automatically for the same or similar billing cycle unless cancelled before renewal;
+you authorise us or our payment processor to charge the applicable recurring fees;
+you may cancel future renewals at any time through your account settings, app store account, or payment provider interface, as applicable;
+cancellation takes effect at the end of the then-current billing period unless required otherwise by law; and
+deleting the app or ceasing to use the Platform does not automatically cancel a subscription.
+
+Where subscriptions are purchased through Apple App Store or Google Play, billing and cancellation may be managed solely through those platforms.
+
+9. Acceptable Use
+
+You agree not to, and not to assist or permit others to:
+
+use the Platform for any unlawful, fraudulent, abusive, defamatory, harassing, harmful, or deceptive purpose;
+submit false, misleading, or impersonated information;
+exploit the Platform to generate spam, manipulative content, mass-produced outputs, or abusive messaging;
+interfere with or disrupt the Platform, servers, networks, or security features;
+probe, scan, or test vulnerabilities of the Platform without authorisation;
+reverse engineer, decompile, disassemble, copy, extract, replicate, or otherwise attempt to discover source code, prompts, model structure, datasets, system instructions, or underlying components;
+scrape, harvest, collect, or systematically extract data, outputs, or content from the Platform;
+use bots, scripts, crawlers, browser automation, or similar means to access or interact with the Platform except as expressly authorised;
+use the Platform to build, benchmark, fine-tune, train, or improve a competing model, product, dataset, or service;
+reproduce, resell, sublicense, distribute, or commercially exploit the Platform or its outputs beyond personal permitted use;
+upload malware, viruses, malicious code, or any harmful material;
+infringe any third-party rights, including privacy, publicity, confidentiality, copyright, trademark, or other intellectual property rights; or
+use the Platform in any way that could damage, disable, overburden, or impair it.
+
+We may investigate violations and take any action we consider appropriate, including suspension, termination, blocking, takedown, legal action, or co-operation with law enforcement.
+
+10. User Content and Input Materials
+
+You may submit information, prompts, questions, birth details, profile information, text, images, or other materials to the Platform ("User Content").
+
+You represent and warrant that:
+
+you own or have the necessary rights to provide the User Content;
+your User Content does not violate law or third-party rights; and
+you have obtained any required consent from any person whose information you provide to the Platform, including where you submit birth details or relationship information relating to another person.
+
+You retain ownership of your User Content, but you grant us a worldwide, non-exclusive, royalty-free licence to host, store, process, reproduce, adapt, transmit, and use your User Content as necessary to operate, provide, maintain, secure, improve, and support the Platform, subject to our Privacy Policy.
+
+We may remove User Content that violates these Terms or creates risk for us or others.
+
+11. Privacy and Data Handling
+
+Our collection, use, storage, and disclosure of personal information are governed by our Privacy Policy.
+
+By using the Platform, you acknowledge that:
+
+we may process personal information and usage data in order to provide the Platform;
+the Platform may require sensitive information such as date, time, and place of birth to generate certain services;
+data may be processed using third-party hosting, analytics, infrastructure, communications, payment, security, or AI service providers; and
+data may be transferred to, stored in, or accessed from jurisdictions outside your own, subject to applicable law.
+
+You are responsible for ensuring that any personal information you provide about another person is provided lawfully and with any required consent.
+
+12. Permissions, Devices, and App Store Terms
+
+If you access the Platform through a mobile application or device, the Platform may request permissions such as notifications, camera, microphone, photo library, contacts, or location in order to enable certain features. You may control some permissions through your device settings, but disabling them may affect functionality.
+
+Your use of any mobile application version of the Platform may also be subject to the terms, conditions, and policies of the relevant app store provider, including Apple App Store and Google Play. To the extent of any inconsistency between those app store requirements and these Terms, the app store requirements apply only to the extent required for that distribution channel.
+
+13. Intellectual Property
+
+The Platform, including all software, code, interfaces, workflows, designs, text, graphics, audio, video, reports, templates, AI systems, model behaviour, prompts, underlying logic, know-how, trademarks, logos, branding, and other materials or technology, is owned by us or licensed to us and is protected by copyright, trade mark, trade secret, and other laws.
+
+Except for the limited rights expressly granted under these Terms, no rights are granted to you.
+
+You may use the Platform and its outputs solely for your own lawful, personal, non-commercial use unless we expressly agree otherwise in writing.
+
+You must not remove, obscure, or alter any copyright, trade mark, or proprietary notices.
+
+14. Output Ownership and Use Restrictions
+
+Subject to your compliance with these Terms and applicable law, we grant you a limited, revocable, non-exclusive, non-transferable right to use outputs generated for you through the Platform for your personal, non-commercial use.
+
+You must not:
+
+represent Platform outputs as professional advice or guaranteed truth;
+resell or commercialise outputs without our written consent;
+use outputs in a way that infringes law or third-party rights; or
+use outputs to create a misleading impression of endorsement, certainty, diagnosis, or factual authority.
+
+Because AI outputs may be similar across users, we do not guarantee exclusivity or uniqueness of any output.
+
+15. Third-Party Services and Links
+
+The Platform may contain links to, integrations with, or dependencies on third-party websites, tools, content, APIs, software, payment processors, analytics providers, hosting providers, or services.
+
+We do not control and are not responsible for any third-party service, including its availability, content, accuracy, legality, privacy practices, security, or terms. Your use of third-party services is at your own risk and may be subject to separate terms.
+
+16. Service Availability, Beta Features, and Changes
+
+The Platform is provided on an "as available" and "as is" basis. We do not guarantee that the Platform will be uninterrupted, secure, error-free, or available at all times.
+
+From time to time, we may offer alpha, beta, pilot, preview, experimental, or early-access features. Such features may be incomplete, unstable, or subject to additional restrictions, and we may withdraw them at any time.
+
+We may modify, update, suspend, or discontinue the Platform or any part of it, including features, outputs, pricing, integrations, plans, and technical requirements, at any time.
+
+17. Suspension and Termination
+
+We may, without liability and with or without notice where permitted by law, suspend, restrict, or terminate your access to the Platform if:
+
+you breach these Terms;
+we suspect fraud, misuse, abuse, unlawful activity, or security risk;
+required by law or by a regulatory authority;
+your use exposes us, the Platform, or others to harm or liability; or
+we decide to discontinue the Platform or a relevant part of it.
+
+You may stop using the Platform at any time. You may request account deletion, subject to our legal, regulatory, fraud prevention, security, backup, dispute resolution, and record retention requirements.
+
+Upon termination, rights granted to you under these Terms cease immediately.
+
+18. Disclaimers
+
+To the maximum extent permitted by law:
+
+the Platform and all content, outputs, and services are provided on an "as is" and "as available" basis;
+we disclaim all warranties, representations, and guarantees, whether express, implied, statutory, or otherwise, including as to merchantability, quality, fitness for a particular purpose, title, non-infringement, accuracy, quiet enjoyment, reliability, availability, or results;
+we do not guarantee that the Platform will meet your expectations, produce any specific insight or result, or be compatible with your needs; and
+we do not warrant that defects will be corrected or that the Platform will be free from viruses or other harmful components.
+
+Nothing in these Terms excludes any guarantee, warranty, right, or remedy that cannot lawfully be excluded under applicable law, including the Australian Consumer Law.
+
+19. Limitation of Liability
+
+To the maximum extent permitted by law, neither the Company nor its directors, officers, employees, contractors, licensors, affiliates, agents, or service providers will be liable for any indirect, incidental, special, punitive, exemplary, or consequential loss or damage, including loss of profits, revenue, goodwill, data, business opportunity, reputation, anticipated savings, or use, arising out of or in connection with the Platform or these Terms.
+
+To the maximum extent permitted by law, our total aggregate liability arising out of or in connection with the Platform or these Terms will not exceed the greater of:
+
+the amount you paid us for the relevant paid service in the 12 months before the event giving rise to the claim; or
+AUD $100.
+
+This limitation does not apply to liability that cannot lawfully be limited or excluded.
+
+20. Indemnity
+
+You agree to indemnify, defend, and hold harmless the Company and its directors, officers, employees, contractors, affiliates, licensors, agents, and service providers from and against any claims, actions, losses, liabilities, damages, judgments, settlements, penalties, costs, and expenses (including reasonable legal fees) arising out of or related to:
+
+your use or misuse of the Platform;
+your User Content;
+your breach of these Terms;
+your breach of applicable law; or
+your infringement of any third-party rights.
+21. Changes to These Terms
+
+We may update these Terms from time to time. If we make material changes, we may provide notice by posting the updated Terms on the Platform, updating the "Last Updated" date, sending an email, or providing an in-product notice, where appropriate.
+
+Your continued use of the Platform after the effective date of updated Terms constitutes acceptance of those updated Terms. If you do not agree to the revised Terms, you must stop using the Platform.
+
+22. Governing Law and Dispute Resolution
+
+These Terms are governed by the laws of the Commonwealth of Australia and the State of New South Wales, without regard to conflict of law principles.
+
+If a dispute arises out of or in connection with these Terms or the Platform, the parties will first attempt to resolve the dispute through good-faith discussions.
+
+If the dispute is not resolved, you agree that the courts of New South Wales, Australia shall have non-exclusive jurisdiction, unless applicable law requires otherwise.
+
+Nothing in these Terms prevents either party from seeking urgent injunctive or equitable relief in a court of competent jurisdiction.
+
+23. Miscellaneous
+23.1 Entire Agreement
+
+These Terms, together with any policies or additional terms expressly incorporated by reference (including the Privacy Policy), constitute the entire agreement between you and us regarding the Platform.
+
+23.2 Severability
+
+If any provision of these Terms is found invalid, illegal, or unenforceable, that provision will be enforced to the maximum extent permitted, and the remaining provisions will remain in full force and effect.
+
+23.3 No Waiver
+
+Our failure to enforce any provision of these Terms is not a waiver of that provision or any other right.
+
+23.4 Assignment
+
+You may not assign or transfer your rights or obligations under these Terms without our prior written consent. We may assign or transfer our rights and obligations under these Terms as part of a corporate restructure, sale, merger, acquisition, or by operation of law.
+
+23.5 Language
+
+These Terms may be presented in multiple languages. In the event of inconsistency, the English version prevails, unless otherwise required by applicable law.
+
+24. Contact Us
+
+If you have any questions regarding these Terms, please contact us at:
+
+Entity: Module Agents AI Pty Ltd
+Email: ziwei@hebb.io
+
+了解自己，读懂他人
+
+免责声明
+隐私政策
+使用条款
+© 2026 StarAsk.io
